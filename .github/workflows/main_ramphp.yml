@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ramphp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_102B677AF7AE4E97A886E9A47395E15D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DF2C9AB47F9F4421BB64F3D1257AF43F }}
           package: .
